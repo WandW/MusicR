@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MusicR.iml" filepath="$PROJECT_DIR$/MusicR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/circular-progresslibrary/circular-progresslibrary.iml" filepath="$PROJECT_DIR$/circular-progresslibrary/circular-progresslibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lcircular/lcircular.iml" filepath="$PROJECT_DIR$/lcircular/lcircular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipeBackLib/swipeBackLib.iml" filepath="$PROJECT_DIR$/swipeBackLib/swipeBackLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt/tt.iml" filepath="$PROJECT_DIR$/tt/tt.iml" />
+    </modules>
+  </component>
+</project>

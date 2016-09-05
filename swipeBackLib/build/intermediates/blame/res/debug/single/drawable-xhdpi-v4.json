@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\ANDROID\\MusicR\\swipeBackLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_right.png",
+        "source": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\drawable-xhdpi\\shadow_right.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\MusicR\\swipeBackLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_left.png",
+        "source": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\drawable-xhdpi\\shadow_left.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\MusicR\\swipeBackLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\shadow_bottom.png",
+        "source": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\drawable-xhdpi\\shadow_bottom.png"
+    },
+    {
+        "merged": "F:\\ANDROID\\MusicR\\swipeBackLib\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

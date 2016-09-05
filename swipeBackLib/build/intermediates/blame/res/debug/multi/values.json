@@ -1,0 +1,412 @@
+[
+    {
+        "outputFile": "F:\\ANDROID\\MusicR\\swipeBackLib\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\attrs.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 58,
+                        "endOffset": 441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 47,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 81,
+                        "endColumn": 47,
+                        "endOffset": 124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 47,
+                    "endOffset": 205
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 129,
+                        "endColumn": 47,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 210,
+                    "endColumn": 47,
+                    "endOffset": 253
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endColumn": 47,
+                        "endOffset": 220
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 258,
+                    "endColumn": 47,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endColumn": 47,
+                        "endOffset": 268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 47,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 47,
+                        "endOffset": 316
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 635,
+                    "endColumn": 57,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 88,
+                        "endColumn": 57,
+                        "endOffset": 141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 55,
+                    "endOffset": 744
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 146,
+                        "endColumn": 55,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 749,
+                    "endColumn": 45,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 202,
+                        "endColumn": 45,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 795,
+                    "endColumn": 48,
+                    "endOffset": 839
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 48,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 844,
+                    "endColumn": 50,
+                    "endOffset": 890
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 50,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 895,
+                    "endColumn": 59,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 219,
+                        "endColumn": 59,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 63,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 63,
+                        "endOffset": 339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1019,
+                    "endColumn": 62,
+                    "endOffset": 1077
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 62,
+                        "endOffset": 214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1082,
+                    "endColumn": 49,
+                    "endOffset": 1127
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 506,
+                        "endColumn": 49,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1132,
+                    "endColumn": 55,
+                    "endOffset": 1183
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 450,
+                        "endColumn": 55,
+                        "endOffset": 501
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1188,
+                    "endColumn": 51,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 344,
+                        "endColumn": 51,
+                        "endOffset": 391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 53,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 396,
+                        "endColumn": 53,
+                        "endOffset": 445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endLine": 23,
+                    "endColumn": 12,
+                    "endOffset": 1424
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 225,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 355
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1429,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1584
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 548
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1589,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 1864
+                },
+                "from": {
+                    "file": "F:\\ANDROID\\MusicR\\swipeBackLib\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 554,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 829
+                    }
+                }
+            }
+        ]
+    }
+]

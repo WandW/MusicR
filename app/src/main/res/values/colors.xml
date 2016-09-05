@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="color_item_normal">#52ce90</color>
+    <color name="color_item_press">#34b574</color>
+    <color name="handbar">#9C27B0</color>
+    <color name="contentback">#F3E5F5</color>
+    <color name="contentitem">#ffffff</color>
+    <color name="actionbar">#4A148C</color>
+    <color name="text">#727272</color>
+    <color name="white">#ffffff</color>
+    <color name="h1">#6A1B9A</color>
+    <color name="h2">#7B1FA2</color>
+    <color name="content">#AA00FF</color>
+</resources>
