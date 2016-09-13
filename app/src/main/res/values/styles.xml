@@ -2,35 +2,32 @@
 
 
     <style name="AppTheme" parent="android:Theme.Material">
-        <!-- Main theme colors -->
-        <!--   your app branding color for the app bar -->
-        <item name="android:colorPrimary">@color/handbar</item>
-        <!--   darker variant for the status bar and contextual app bars -->
+        <item name="android:colorPrimary">@color/transparent</item>
         <item name="android:colorPrimaryDark">@color/actionbar</item>
-        <!--   theme UI controls like checkboxes and text fields -->
-        <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
 
     <style name="AppTheme2" parent="android:Theme.Material">
-        <!-- Main theme colors -->
-        <!--   your app branding color for the app bar -->
         <item name="android:colorPrimary">@color/handbar</item>
-        <!--   darker variant for the status bar and contextual app bars -->
         <item name="android:colorPrimaryDark">@color/actionbar</item>
-        <!--   theme UI controls like checkboxes and text fields -->
-
     </style>
     <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
-        <!-- 状态栏颜色-->
-        <item name="colorPrimaryDark">@color/handbar</item>
-        <!-- toolbar颜色-->
+        <item name="colorPrimaryDark">@color/transparent</item>
         <item name="colorPrimary">@color/actionbar</item>
-        <!--返回键样式-->
         <item name="drawerArrowStyle">@style/AppTheme.DrawerArrowToggle</item>
+
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/colorPrimaryDark</item>
+
     </style>
     <!--设置打开和关闭菜单的按钮颜色-->
     <style name="AppTheme.DrawerArrowToggle" parent="Base.Widget.AppCompat.DrawerArrowToggle">
         <item name="color">@android:color/white</item>
     </style>
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
 </resources>

@@ -19,7 +19,7 @@
                android:textSize="20sp"
                android:textColor="@color/content"
                android:layout_gravity="center_vertical"
-               android:id="@+id/albumitemlistnum"
+               android:id="@+id/num"
                />
 
 
@@ -36,7 +36,7 @@
                 android:textSize="25sp"
                 android:textColor="@color/content"
                 android:layout_gravity="center_vertical"
-                android:id="@+id/albumitemlistname"
+                android:id="@+id/name"
                 />
 
 

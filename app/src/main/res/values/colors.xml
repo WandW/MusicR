@@ -12,4 +12,8 @@
     <color name="h1">#6A1B9A</color>
     <color name="h2">#7B1FA2</color>
     <color name="content">#AA00FF</color>
+    <color name="black">#000000</color>
+    <color name="grey">#808080</color>
+    <color name="colorPrimaryDark">#AA00FF</color>
+    <color name="statusBar">#30000000</color>
 </resources>

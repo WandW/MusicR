@@ -1,0 +1,59 @@
+<LinearLayout android:id="@+id/id_right_menu"
+    android:layout_width="80dp"
+    android:layout_height="match_parent"
+    android:layout_gravity="end"
+    android:background="@color/white"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/content"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:text="TAG"
+                android:textSize="24sp"
+                android:gravity="center"
+                android:id="@+id/category"
+                />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        app:layoutManager="LinearLayoutManager"
+        tools:listitem="@layout/right_menu_item"
+        android:background="@color/colorPrimaryDark"
+        >
+
+    </android.support.v7.widget.RecyclerView>
+    <com.github.glomadrian.materialanimatedswitch.MaterialAnimatedSwitch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:base_release_color="@color/colorPrimaryDark"
+        app:base_press_color="@color/colorPrimaryDark"
+        app:ball_release_color="@color/colorPrimaryDark"
+        app:ball_press_color="@color/colorPrimaryDark"
+        app:icon_release="@drawable/icon_list"
+        app:icon_press="@drawable/icon_grid"
+        android:id="@+id/isGrid"
+        />
+    
+</LinearLayout>
