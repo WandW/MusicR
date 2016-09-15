@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-import com.example.adw.musicr.Acitivities.AlbumActivity;
+import com.example.adw.musicr.Acitivity.AlbumActivity;
 import com.example.adw.musicr.R;
 
 import java.util.ArrayList;
@@ -33,7 +33,7 @@ public class RecyclerViewAdpterG extends RecyclerView.Adapter<RecyclerViewAdpter
     public ItemViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 
        ItemViewHolder holder = new ItemViewHolder(
-               mInflater.inflate(R.layout.item_album_g,parent,false));
+               mInflater.inflate(R.layout.albumitemstaggered,parent,false));
         return holder;
     }
 
@@ -61,8 +61,8 @@ public class RecyclerViewAdpterG extends RecyclerView.Adapter<RecyclerViewAdpter
         private RelativeLayout albumicon;
         public ItemViewHolder(View itemView) {
             super(itemView);
-            staggernum = (TextView)itemView.findViewById(R.id.count);
-            albumicon=(RelativeLayout)itemView.findViewById(R.id.albumicon);
+            staggernum = (TextView)itemView.findViewById(R.id.staggernum);
+            albumicon=(RelativeLayout)itemView.findViewById(R.id.mainalbumicon);
 //            LinearLayoutCompat.LayoutParams params = (LinearLayoutCompat.LayoutParams) staggernum.getLayoutParams();
 //            LinearLayoutCompat.LayoutParams params2 = new LinearLayoutCompat.LayoutParams(LinearLayoutCompat.LayoutParams.WRAP_CONTENT,LinearLayoutCompat.LayoutParams.WRAP_CONTENT);
 //            albumicon.addView(albumicon,params2);
