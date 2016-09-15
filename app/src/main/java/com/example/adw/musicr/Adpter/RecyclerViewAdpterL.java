@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.adw.musicr.Acitivities.OrderCheckActivity;
+import com.example.adw.musicr.Acitivity.OrderCheckActivity;
 import com.example.adw.musicr.R;
 
 import java.util.ArrayList;
